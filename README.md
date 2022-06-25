@@ -1,16 +1,19 @@
-### Hi there 👋
+## 👋 Hi, I'm Anton
+My age is 18 and I am studying in Russia.
 
-<!--
-**AaronR92/AaronR92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on Account Service
+- 🌱 I’m currently learning Java and C#
+- 📫 How to reach me: antonru924@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: Ben Türkçe biliyorum
+
+## 🛠 My skills
+* Java
+* C#
+* A bit of Python and JS
+
+- 🔭 I’m currently working on Account Service
+- 🌱 I’m currently learning Java and C#
+- 📫 How to reach me: antonru924@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: Ben Türkçe biliyorum
