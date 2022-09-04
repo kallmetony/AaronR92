@@ -9,4 +9,5 @@ My age is 18 and I am studying in Russia
 ## 🛠 My skills
 * Java
 * C#
-* A bit of Python and JS
+* Typescript
+* A bit of Python
