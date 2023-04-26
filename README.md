@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Anton
-My age is 18 and I am studying in Russia
+My age is 18 and I am java developer
 
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning C++ and Python
 - 📫 How to reach me: antonru924@gmail.com
 - ⚡ Fun fact: Türkçe biliyorum
 
