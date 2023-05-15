@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Anton
+## 👋 Hi there!
 My name is Anton and I am java developer
 
 - 🔭 I’m currently working on something cool
