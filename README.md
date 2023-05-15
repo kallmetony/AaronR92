@@ -9,5 +9,5 @@ My name is Anton and I am java developer
 ## 🛠 My skills
 * Java
 * C#
-* Typescript
-* A bit of Python
+* TypeScript
+* Python
