@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Anton
-My age is 18 and I am java developer
+My name is Anton and I am java developer
 
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning C++ and Python
