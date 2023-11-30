@@ -1,8 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there!
 My name is Anton and I am Middle Java developer
 
-- 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning C++ and Python
+- 🔭 I’m currently working on a huge project
 - 📫 How to reach me: antonru924@gmail.com
 - ⚡ Fun fact: Türkçe biliyorum
 
